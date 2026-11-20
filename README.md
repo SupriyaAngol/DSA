@@ -1,3 +1,3 @@
 # DSA
 trees
-arrays
+array
